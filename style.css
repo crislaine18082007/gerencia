@@ -1,0 +1,18 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.galeria img {
+  width: 200px;
+  margin: 10px;
+  border: 2px solid #555;
+  border-radius: 8px;
+}
